@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Metropolis;
+    border: none;
+    text-decoration: none;
+}
+
+a {
+    color: unset;
+}
+
